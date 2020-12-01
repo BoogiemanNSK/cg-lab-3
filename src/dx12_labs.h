@@ -12,6 +12,8 @@
 
 #include <dxgi1_4.h>
 #include "d3dx12.h"
+#include <string>
+#include <vector>
 
 #include <D3Dcompiler.h>
 #include <DirectXMath.h>
